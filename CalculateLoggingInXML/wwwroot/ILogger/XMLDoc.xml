@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<calculations>
+  <time>2020-01-02-10-53-55</time>
+  <calculation Id="1">12+6*8=60</calculation>
+  <time>2020-01-02-10-54-02</time>
+  <calculation Id="2">6+10/2=11</calculation>
+  <time>2020-01-02-10-54-06</time>
+  <calculation Id="3">23-84=-61</calculation>
+  <time>2022-02-26-08-31-01</time>
+  <calculation Id="1">12-38=-26</calculation>
+  <time>2022-02-26-08-31-12</time>
+  <calculation Id="2">26*79845=2075970</calculation>
+  <time>2022-02-26-08-31-20</time>
+  <calculation Id="3">2075970/9458=219.49355043349544</calculation>
+  <time>2022-02-26-08-31-48</time>
+  <calculation Id="4">0.332+683=683.332</calculation>
+  <time>2022-02-26-08-32-00</time>
+  <calculation Id="5">100/100*10=10</calculation>
+  <time>2022-02-26-08-32-13</time>
+  <calculation Id="6">158000/100*10=15800</calculation>
+  <time>2022-02-26-08-32-26</time>
+  <calculation Id="7">120/100*10=12</calculation>
+  <time>2022-08-13-18-11-37</time>
+  <calculation Id="1">12*112*33=44352</calculation>
+  <time>2022-08-13-19-18-54</time>
+  <calculation Id="1">89/100*9=8.01</calculation>
+  <time>2022-08-13-19-19-37</time>
+  <calculation Id="1">84+6=90</calculation>
+  <time>2022-08-13-19-19-52</time>
+  <calculation Id="2">9028+28=9056</calculation>
+  <time>2022-08-13-19-20-15</time>
+  <calculation Id="3">100*14=1400</calculation>
+  <time>2022-08-13-19-26-51</time>
+  <calculation Id="1">12+0*8=12</calculation>
+</calculations>
